@@ -54,7 +54,7 @@ Now that we have Active Directory installed I created an admin account named jan
 <br />
 
 <p>
-<img src="https://i.imgur.com/3pQdini.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/m0D7xOh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Finally, created users in the _EMPLOYEES folder that I created.
